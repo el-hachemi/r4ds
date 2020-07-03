@@ -1,0 +1,62 @@
+---
+title: "BOUKARA Ahmed El-Hachemi"
+author: ''
+date: ''
+Tel: "+213 660 346210"
+output:
+  html_document: default
+  pdf_document: default
+---
+
+### Employment   
+
+------------  
+
+* Level 2 manager responsible for stock management at "Algérie Telecom Satellite", *Algiers, Algeria*
+  + From January **2020**
+* Level 2 manager responsible for health & safety at "Algérie Telecom Satellite", *Algiers, Algeria*
+  + **2018** - **2019**
+* Level 2 manager responsible for administration at "Algérie Telecom Satellite", *Bechar, Algeria*
+  + **2016** - **2018**
+* Statistics manager at "Algérie Telecom Satellite", *Algiers, Algeria*
+  + **2011** - **2016**
+* Police inspector at Protection and security service, General direction of the national security, *Algiers, Algeria*
+  + **2002** - **2011**   
+
+----------- 
+  
+### Education  
+
+-------------
+
+* Police inspector training, Applied national security school, *Blida, Algeria*
+  + **2001** - **2002**
+* State engineer in management of organizations and decision systems, from the national higher school of statistics and applied economics (ENSSEA), *Algiers, Algeria*
+  + **2009**
+* Senior Statistics Technician, from the National Institute of Planning and Statistics (INPS), *Algiers, Algeria*
+  + **2000**
+* Baccalaureate, *Cherchell, Algeria*
+  + **1996**
+  
+---------------
+  
+  The quick brown fox jumped over the lazy dog.[^quick-fox]
+
+Use three or more `-` for a horizontal rule. For example,
+
+------------------
+
+  I'll use my contact as footnote[^1]
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  [^1]: to see whether it works 0660346210
+  [^quick-fox]: This is an example of a footnote. The sentence this is footnoting
+  is often used for displaying fonts because it includes all 26 letters of the
+  English alphabet.

@@ -1,0 +1,35 @@
+---
+title: "Exercise 4.4 from R markdown chapter"
+author: "Boukara Ahmed El-Hachemi"
+date: "01/06/2020"
+output: html_document
+---
+
+The question is about caching:  
+
+> Set up a network of chunks where d depends on c and b, and both b and c depend on a. Have each chunk print `lubridate::now()`, set `cache = TRUE`, then verify your understanding of caching.
+
+```{r setup, include=FALSE, message=FALSE}
+library(lubridate)
+```
+
+```{r a, cache=TRUE}
+x <- 2
+now()
+```
+
+```{r b, cache=TRUE, dependson="a"}
+y <- x + 2
+now()
+```
+
+```{r c, cache=TRUE, dependson="a"}
+z <- x / 2
+now()
+```
+
+```{r d, cache=TRUE, dependson=c("c","b")}
+p <- y + z / 2
+now()
+```
+
